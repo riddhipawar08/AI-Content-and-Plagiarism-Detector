@@ -1,0 +1,6 @@
+numpy==2.0.2
+torch==2.6.0+cu124
+transformers==4.50.0
+sentence-transformers==3.4.1
+scikit-learn==1.6.1
+language-tool-python==2.9.0
